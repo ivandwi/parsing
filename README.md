@@ -15,4 +15,7 @@
 ![ubuntu](https://user-images.githubusercontent.com/32188246/34320334-8a73f39e-e82a-11e7-89e6-0ccbfdcb2120.png)
 
 # mencoba program di ubuntu
+![program coba](https://user-images.githubusercontent.com/32188246/34320827-a3bd5f2a-e834-11e7-9897-3a5637437dd5.png)
+
+# hasil assembly program coba di ubuntu
 
