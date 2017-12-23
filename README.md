@@ -18,4 +18,10 @@
 ![program coba](https://user-images.githubusercontent.com/32188246/34320827-a3bd5f2a-e834-11e7-9897-3a5637437dd5.png)
 
 # hasil assembly program coba di ubuntu
+![program test](https://user-images.githubusercontent.com/32188246/34320882-49b86c4e-e835-11e7-912c-9567595e5029.png)
+![test1](https://user-images.githubusercontent.com/32188246/34320883-49eb89ee-e835-11e7-887a-21c1b39a6ebe.png)
+![test2](https://user-images.githubusercontent.com/32188246/34320884-4a1ff06c-e835-11e7-9b8d-ac83523f2d9b.png)
+![test3](https://user-images.githubusercontent.com/32188246/34320885-4a5b2510-e835-11e7-8537-998c663d50de.png)
+![test4](https://user-images.githubusercontent.com/32188246/34320886-4a900bd6-e835-11e7-8e0e-f44d7ad5f511.png)
+![test5](https://user-images.githubusercontent.com/32188246/34320887-4ac11834-e835-11e7-9c01-95fb5d7c930d.png)
 
