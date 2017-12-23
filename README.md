@@ -10,3 +10,5 @@
 
 # program
 ![program](https://user-images.githubusercontent.com/32188246/34319916-30d6ce88-e820-11e7-99b5-e651ea12375f.JPG)
+
+# install ubuntu
