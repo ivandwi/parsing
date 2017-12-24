@@ -31,6 +31,9 @@
 ![parsing1](https://user-images.githubusercontent.com/32188246/34323595-4d3c37bc-e883-11e7-8631-a35d0c8d826d.JPG)
 
 
+# assembly dengan ubuntu
+![assembly](https://user-images.githubusercontent.com/32188246/34324336-e4318e9c-e8a1-11e7-8a94-f012f939e528.png)
+
 
 # Ivan Dwi Putra
 # 2015630029
