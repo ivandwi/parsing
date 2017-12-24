@@ -26,7 +26,9 @@
 ![test5](https://user-images.githubusercontent.com/32188246/34320887-4ac11834-e835-11e7-9c01-95fb5d7c930d.png)
 
 # program dibuat dengan nama parsing.c dimana pada program tersebut terdapat 5 simbol (hlp,o,r,s,e) dan 5 kalimat. ketika program ini dieksekusi melalui cmd di windows, ketika symbol tersebut di input dari keyboard maka akan muncul kalimatnya.
-
+![pasring](https://user-images.githubusercontent.com/32188246/34323597-4dae086a-e883-11e7-8ebd-5faa2b66ff9a.JPG)
+![parsing2](https://user-images.githubusercontent.com/32188246/34323596-4d76cb70-e883-11e7-8c5b-4a22ca94c21f.JPG)
+![parsing1](https://user-images.githubusercontent.com/32188246/34323595-4d3c37bc-e883-11e7-8631-a35d0c8d826d.JPG)
 
 
 
